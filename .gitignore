@@ -1,0 +1,19 @@
+# Dependencies
+lib/whisper.cpp/
+
+# Build artifacts
+.build/
+build/
+*.xcuserdata
+*.xcworkspace/xcuserdata/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Models
+models/
